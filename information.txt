@@ -1,0 +1,3 @@
+mes informations dans docker sont:
+username:zomahefa
+Vous y trouverai cette image dedans car je l'ai déja pusher sur dockerhub
